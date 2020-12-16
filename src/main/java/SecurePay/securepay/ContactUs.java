@@ -72,7 +72,7 @@ public class ContactUs {
 		
 		//Closing Webdriver
 		
-	//	secure.createWebdriver().close();
+		secure.createWebdriver().close();
 		
 		
 		
